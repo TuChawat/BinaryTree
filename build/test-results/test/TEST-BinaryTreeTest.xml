@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-11T18:19:22" hostname="LAPTOP-22472JL6" time="0.037">
+  <properties/>
+  <testcase name="givenNumbersAddedToBST_WhenSearched_ShouldReturn_True()" classname="BinaryTreeTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
